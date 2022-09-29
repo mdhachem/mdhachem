@@ -1,5 +1,3 @@
-![HEY, I'M Mohamed Dhia](https://user-images.githubusercontent.com/58532023/170814848-fa7f525a-c9ee-4383-918d-addad0f25669.svg)
-
 ## **Overview 👉**
 <p>Let me introduce myself. I am Mohamed Dhia Hachem, I am a software engineer. I'm currently working for Vermeg company. I have more than 3 years of experience.
 </p>
@@ -21,6 +19,3 @@
   <a href=""><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
 	<a href=""><img src="https://user-images.githubusercontent.com/58532023/171218519-2ccc030a-72b5-45ea-a2ec-7f1dfbef917f.png" alt="Twitter"/></a>
 </p>
-
-
-![HEY, I'M Mohamed Dhia (1)](https://user-images.githubusercontent.com/58532023/170817094-f9208f31-7889-49c9-81ae-2db37213902a.svg)
