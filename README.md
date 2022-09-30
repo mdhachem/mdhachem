@@ -13,7 +13,7 @@
 <br><br>
 
 ## **Hard Skills 🚀**
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
 <img src="https://img.shields.io/badge/String Boot-339933?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring Boot"/>
 <img src="https://img.shields.io/badge/Quarkus-007ACC?style=for-the-badge&logo=Quarkus&logoColor=white" alt="Quarkus"/>
@@ -39,7 +39,7 @@
 </p>
 
 ## **Connect with me 👇**
-<p>
+<p align="center">
 <a href="https://github.com/mdhachem"><img src="https://user-images.githubusercontent.com/58532023/171219272-a68dd897-a9c7-4826-b7e6-10ef84e6a0a8.png" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/mohamed-dhia-hachem-073888150/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
 <a href=""><img src="https://user-images.githubusercontent.com/58532023/171219320-cc1517cb-54a9-470c-a92d-965524a7b3aa.png" alt="Instagram"/></a>
